@@ -1,0 +1,13 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/DataExtraction/.vs
+/DataExtraction/DataExtraction/bin
+/DataExtraction/DataExtraction/obj
+/DataExtraction/DataExtraction.Tests/bin
+/DataExtraction/DataExtraction.Tests/obj
+/ExtractorLib/.vs
+/ExtractorLib/ExtractorLib/bin
+/ExtractorLib/ExtractorLib/obj
